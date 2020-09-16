@@ -1,0 +1,2677 @@
+{
+    "manifest_version": "1.0.12",
+    "title": "Foodo",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kits.pixel-show.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/?elementor_library=footer-3",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/?elementor_library=header-3",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Menu",
+            "screenshot": "screenshots\/our-menu.jpg",
+            "source": "templates\/our-menu.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/our-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our History",
+            "screenshot": "screenshots\/our-history.jpg",
+            "source": "templates\/our-history.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/our-history\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/single-product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/home-4\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/kits.pixel-show.com\/kit-2\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.8.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "fresh-pizza-in-delivery-box-on-grey-concrete-2R26DTY-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fresh-pizza-in-delivery-box-on-grey-concrete-2R26DTY-min-1-600x252.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                }
+            ],
+            "filesize": 400058,
+            "dimensions": [
+                1920,
+                806
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-pizza-in-delivery-box-on-grey-concrete-2R26DTY"
+        },
+        {
+            "filename": "chicken-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/chicken-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 4716,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "pizza-slice-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/pizza-slice-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 6623,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "french-fries-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/french-fries-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 4173,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "kebab-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/kebab-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 7044,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "donut-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/donut-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 8031,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "softdrink-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/softdrink-min.png",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 4060,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "freshly-baked-pizza-PTYLW2R-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PTYLW2R-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 143918,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PTYLW2R"
+        },
+        {
+            "filename": "freshly-baked-pizza-PCVZXER-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PCVZXER-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 140199,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PCVZXER"
+        },
+        {
+            "filename": "freshly-baked-pizza-PBURSKC-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PBURSKC-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 139281,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PBURSKC"
+        },
+        {
+            "filename": "freshly-baked-pizza-PVTNH58-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PVTNH58-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 146317,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PVTNH58"
+        },
+        {
+            "filename": "delicious-pizza-with-mushrooms-and-meat-PM3XLWF-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/delicious-pizza-with-mushrooms-and-meat-PM3XLWF-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 138975,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/delicious-pizza-with-mushrooms-and-meat-PM3XLWF"
+        },
+        {
+            "filename": "freshly-baked-pizza-S65SEGY-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-S65SEGY-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 145003,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-S65SEGY"
+        },
+        {
+            "filename": "freshly-baked-pizza-P5TCWYX-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-P5TCWYX-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 144621,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-P5TCWYX"
+        },
+        {
+            "filename": "freshly-baked-pizza-PHLSKGR-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PHLSKGR-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 140168,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PHLSKGR"
+        },
+        {
+            "filename": "freshly-baked-pizza-PN4YVGC-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PN4YVGC-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 148427,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PN4YVGC"
+        },
+        {
+            "filename": "delicious-pizza-with-mushrooms-and-meat-PRRXEMN-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/delicious-pizza-with-mushrooms-and-meat-PRRXEMN-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 145644,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/delicious-pizza-with-mushrooms-and-meat-PRRXEMN"
+        },
+        {
+            "filename": "freshly-baked-pizza-N6UKZ76-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-N6UKZ76-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 147315,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-N6UKZ76"
+        },
+        {
+            "filename": "freshly-baked-pizza-PSP7YXK-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-PSP7YXK-min-600x578.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 110716,
+            "dimensions": [
+                800,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-PSP7YXK"
+        },
+        {
+            "filename": "freshly-baked-pizza-RWNPYCX-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/freshly-baked-pizza-RWNPYCX-min-600x386.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 94096,
+            "dimensions": [
+                800,
+                515
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-baked-pizza-RWNPYCX"
+        },
+        {
+            "filename": "tasty-vegetarian-pizza-on-dark-background-3W9XHQ2-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/tasty-vegetarian-pizza-on-dark-background-3W9XHQ2-min-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 362611,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-vegetarian-pizza-on-dark-background-RKT38XH"
+        },
+        {
+            "filename": "roasted-shrimps-on-pan-GF75W85-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/roasted-shrimps-on-pan-GF75W85-min-600x350.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 409050,
+            "dimensions": [
+                1920,
+                1120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/roasted-shrimps-on-pan-GF75W85"
+        },
+        {
+            "filename": "homemade-pizza-with-mozzarella-on-dark-background-J5T2WV8-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/homemade-pizza-with-mozzarella-on-dark-background-J5T2WV8-min-600x311.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 309243,
+            "dimensions": [
+                1280,
+                663
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/homemade-pizza-with-mozzarella-on-dark-background-J5T2WV8"
+        },
+        {
+            "filename": "chicken-wings-grilled-in-sauce-on-pan-3467TVK-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/chicken-wings-grilled-in-sauce-on-pan-3467TVK-min-600x311.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 246895,
+            "dimensions": [
+                1280,
+                663
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chicken-wings-grilled-in-sauce-on-pan-3467TVK"
+        },
+        {
+            "filename": "circle-min-1.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/circle-min-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                }
+            ],
+            "filesize": 2123,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "chef-79FCSMX-min-1.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/chef-79FCSMX-min-1-600x735.png",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                }
+            ],
+            "filesize": 370005,
+            "dimensions": [
+                982,
+                1203
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "mobile-pizza-ordering-and-delivery-concept-PLFCC4V-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/mobile-pizza-ordering-and-delivery-concept-PLFCC4V-min-1-600x460.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                }
+            ],
+            "filesize": 118447,
+            "dimensions": [
+                1200,
+                919
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/\tmobile-pizza-ordering-and-delivery-concept-PLFCC4V"
+        },
+        {
+            "filename": "closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH-min-1-600x417.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 200790,
+            "dimensions": [
+                1280,
+                890
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH"
+        },
+        {
+            "filename": "image-7-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image-7-min-600x409.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-history.json",
+                    "name": "Our History"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 233368,
+            "dimensions": [
+                960,
+                655
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "awards-1-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-1-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 11526,
+            "dimensions": [
+                300,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-2-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-2-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 13081,
+            "dimensions": [
+                300,
+                302
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-3-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-3-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 12005,
+            "dimensions": [
+                300,
+                304
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-4-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-4-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 10562,
+            "dimensions": [
+                300,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-5-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-5-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 11388,
+            "dimensions": [
+                300,
+                304
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-6-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-6-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 10865,
+            "dimensions": [
+                300,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-7-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-7-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 13081,
+            "dimensions": [
+                300,
+                302
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "awards-8-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-8-min.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 11526,
+            "dimensions": [
+                300,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/organic-food-stickers-collection-CEZYWKP"
+        },
+        {
+            "filename": "work-in-kitchen-NJ8MUF9-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/work-in-kitchen-NJ8MUF9-min-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 87110,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/\twork-in-kitchen-NJ8MUF9"
+        },
+        {
+            "filename": "thai-fried-rice-noodles-with-shrimps-PK9BAQ7-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/thai-fried-rice-noodles-with-shrimps-PK9BAQ7-min-1-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 116861,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/thai-fried-rice-noodles-with-shrimps-PK9BAQ7"
+        },
+        {
+            "filename": "grilled-beef-steaks-D3L92ZW-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/grilled-beef-steaks-D3L92ZW-min-1-600x443.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 155166,
+            "dimensions": [
+                800,
+                590
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-beef-steaks-D3L92ZW"
+        },
+        {
+            "filename": "fried-shrimps-P8QJP4D-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fried-shrimps-P8QJP4D-min-1-600x391.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 153978,
+            "dimensions": [
+                800,
+                521
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fried-shrimps-P8QJP4D"
+        },
+        {
+            "filename": "fast-food-with-copy-space-and-dark-background-PZ5TMLF2-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fast-food-with-copy-space-and-dark-background-PZ5TMLF2-min-600x255.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 276874,
+            "dimensions": [
+                1920,
+                815
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-and-appetizing-hamburger-cheeseburger-PVGXL6C"
+        },
+        {
+            "filename": "bun.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/bun.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 49718,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/burger-bun-with-sesame-seeds-isolated-on-white-bac-PV7MEHD"
+        },
+        {
+            "filename": "beef.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/beef.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 51454,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/freshly-grilled-burger-meat-on-white-background-BV5RZUF"
+        },
+        {
+            "filename": "ketchup.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/ketchup.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 37869,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tomato-sauce-in-bowl-isolated-on-white-PK2MGUP"
+        },
+        {
+            "filename": "mustard.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/mustard.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 38675,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/yellow-mustard-and-whole-grain-mustard-GWK362H"
+        },
+        {
+            "filename": "lettuce.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/lettuce.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 40324,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lettuce-leaf-NXPTMVR"
+        },
+        {
+            "filename": "cheese.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/cheese.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 9307,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cheese-slice-isolated-FJNSW62"
+        },
+        {
+            "filename": "tomatoes.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/tomatoes.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 37848,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tomato-garlic-and-basil-PBGSYW5"
+        },
+        {
+            "filename": "onion.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/onion.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 38513,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sliced-red-onion-PUFCYV7"
+        },
+        {
+            "filename": "young-african-american-man-isolated-on-white-backg-PD8HHA2-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/young-african-american-man-isolated-on-white-backg-PD8HHA2-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 10332,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-african-american-man-isolated-on-white-backg-PD8HHA2"
+        },
+        {
+            "filename": "portrait-of-thinking-stylish-young-man-looking-awa-Q3EF4DB-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/portrait-of-thinking-stylish-young-man-looking-awa-Q3EF4DB-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 26195,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-thinking-stylish-young-man-looking-awa-Q3EF4DB"
+        },
+        {
+            "filename": "man-reading-book-in-his-hands-education-developmen-EY2RLVA-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/man-reading-book-in-his-hands-education-developmen-EY2RLVA-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 20447,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-reading-book-in-his-hands-education-developmen-EY2RLVA"
+        },
+        {
+            "filename": "grilled-roasted-shrimps-prawns-on-oval-metal-84QXETV.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/grilled-roasted-shrimps-prawns-on-oval-metal-84QXETV-600x579.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 322719,
+            "dimensions": [
+                1082,
+                1045
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-84QXETV"
+        },
+        {
+            "filename": "img-11-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/img-11-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 17454,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fresh-raw-dorado-fish-with-ingredients-for-P83QBCL-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fresh-raw-dorado-fish-with-ingredients-for-P83QBCL-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 152243,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-raw-dorado-fish-with-ingredients-for-P83QBCL"
+        },
+        {
+            "filename": "grilled-shrimps-prawns-on-vintage-grill-pan-top-CLBH3JP-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/grilled-shrimps-prawns-on-vintage-grill-pan-top-CLBH3JP-min-600x392.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 171015,
+            "dimensions": [
+                800,
+                522
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/grilled-shrimps-prawns-on-vintage-grill-pan-top-CLBH3JP"
+        },
+        {
+            "filename": "thai-fried-rice-noodles-with-shrimps-PK9BAQ7-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/thai-fried-rice-noodles-with-shrimps-PK9BAQ7-min-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 116861,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/thai-fried-rice-noodles-with-shrimps-PK9BAQ7"
+        },
+        {
+            "filename": "fried-shrimps-P8QJP4D-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fried-shrimps-P8QJP4D-min-600x391.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 153978,
+            "dimensions": [
+                800,
+                521
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/\tfried-shrimps-P8QJP4D"
+        },
+        {
+            "filename": "grilled-beef-steaks-D3L92ZW-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/grilled-beef-steaks-D3L92ZW-min-600x443.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 155166,
+            "dimensions": [
+                800,
+                590
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/\tgrilled-beef-steaks-D3L92ZW"
+        },
+        {
+            "filename": "fried-quail-P8M3LQ3-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fried-quail-P8M3LQ3-min-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 103639,
+            "dimensions": [
+                800,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fried-quail-P8M3LQ3"
+        },
+        {
+            "filename": "fresh-raw-dorado-fish-with-ingredients-for-PW5WS71E-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fresh-raw-dorado-fish-with-ingredients-for-PW5WS71E-min-600x337.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 357996,
+            "dimensions": [
+                1920,
+                1078
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-raw-dorado-fish-with-ingredients-for-cooking-PW5WS7E"
+        },
+        {
+            "filename": "plate-of-boiled-prawns-and-salsa-sauce-E46ZLYB-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/plate-of-boiled-prawns-and-salsa-sauce-E46ZLYB-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 237421,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/plate-of-boiled-prawns-and-salsa-sauce-E46ZLYB"
+        },
+        {
+            "filename": "boiled-gambas-and-salsa-sauce-A67S9WM-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/boiled-gambas-and-salsa-sauce-A67S9WM-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 255852,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/boiled-gambas-and-salsa-sauce-A67S9WM"
+        },
+        {
+            "filename": "bowl-of-boiled-prawns-XYMQC63-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/bowl-of-boiled-prawns-XYMQC63-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 209954,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bowl-of-boiled-prawns-XYMQC63"
+        },
+        {
+            "filename": "fast-food-burger-with-cola-and-potatoes-PWPUUK2-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fast-food-burger-with-cola-and-potatoes-PWPUUK2-min-1-600x380.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 337983,
+            "dimensions": [
+                1920,
+                1216
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-burger-with-cola-and-potatoes-PWPUUK2"
+        },
+        {
+            "filename": "image_7-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image_7-min-600x660.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 204,
+            "dimensions": [
+                900,
+                990
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "big-double-cheeseburger-51N4EAVE-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/big-double-cheeseburger-51N4EAVE-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 31469,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/big-double-cheeseburger-5N4EAVE"
+        },
+        {
+            "filename": "burger-with-cheese-PJRKX3Q-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/burger-with-cheese-PJRKX3Q-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 33588,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/burger-with-cheese-PJRKX3Q"
+        },
+        {
+            "filename": "tasty-grilled-home-made-burger-PGWCRMZ1-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/tasty-grilled-home-made-burger-PGWCRMZ1-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 30340,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-grilled-home-made-burger-PGWCRMZ"
+        },
+        {
+            "filename": "dessert-PM7FZDH-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/dessert-PM7FZDH-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 21665,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dessert-PM7FZDH"
+        },
+        {
+            "filename": "creamy-dessert-with-strawberries-and-kiwi-PGZ97Z5-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/creamy-dessert-with-strawberries-and-kiwi-PGZ97Z5-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 28899,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/creamy-dessert-with-strawberries-and-kiwi-PGZ97Z5"
+        },
+        {
+            "filename": "dessert-PD85KFF-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/dessert-PD85KFF-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 22131,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dessert-PD85KFF"
+        },
+        {
+            "filename": "smoked-chicken-wings-3NM2ZT7-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/smoked-chicken-wings-3NM2ZT7-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 357286,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smoked-chicken-wings-3NM2ZT7"
+        },
+        {
+            "filename": "female-hand-taking-slice-of-fresh-pizza-from-YASHDVN-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/female-hand-taking-slice-of-fresh-pizza-from-YASHDVN-min-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 280456,
+            "dimensions": [
+                1920,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/female-hand-taking-slice-of-fresh-pizza-from-YASHDVN"
+        },
+        {
+            "filename": "image_6-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image_6-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 56444,
+            "dimensions": [
+                400,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/glass-of-cola-with-ice-PCDABKT"
+        },
+        {
+            "filename": "image_5-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image_5-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 62838,
+            "dimensions": [
+                400,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cola-with-ice-cubes-isolated-P3FB646"
+        },
+        {
+            "filename": "image_4-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image_4-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 60062,
+            "dimensions": [
+                400,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cola-glass-with-ice-cubes-P5SQNMA"
+        },
+        {
+            "filename": "seafood-soup-decorated-with-whole-shrimps-and-A9WD43P-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/seafood-soup-decorated-with-whole-shrimps-and-A9WD43P-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 247282,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/seafood-soup-decorated-with-whole-shrimps-and-A9WD43P"
+        },
+        {
+            "filename": "smoked-chicken-wings-QRW2UPS-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/smoked-chicken-wings-QRW2UPS-min-600x311.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 352870,
+            "dimensions": [
+                1920,
+                994
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smoked-chicken-wings-QRW2UPS"
+        },
+        {
+            "filename": "composition-of-vegetables-herbs-and-spices-PXP6BNB-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/composition-of-vegetables-herbs-and-spices-PXP6BNB-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                }
+            ],
+            "filesize": 14588,
+            "dimensions": [
+                300,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composition-of-vegetables-herbs-and-spices-PXP6BNB"
+        },
+        {
+            "filename": "homemade-italian-sub-sandwich-P5GR4TD-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/homemade-italian-sub-sandwich-P5GR4TD-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 111559,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/homemade-italian-sub-sandwich-P5GR4TD"
+        },
+        {
+            "filename": "beautiful-and-juicy-burger-close-up-food-is-a-P7NV47C-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/beautiful-and-juicy-burger-close-up-food-is-a-P7NV47C-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 122622,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fastfood-assortment-hamburgers-and-hot-dogs-placed-HB5CC7J"
+        },
+        {
+            "filename": "big-sandwich-hamburger-with-juicy-beef-burger-PW2UKTM-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/big-sandwich-hamburger-with-juicy-beef-burger-PW2UKTM-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4.json",
+                    "name": "Home - 4"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 88946,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/big-sandwich-hamburger-with-juicy-beef-burger-chee-PW2UKTM"
+        },
+        {
+            "filename": "img-12-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/img-12-min-600x324.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 116818,
+            "dimensions": [
+                1920,
+                1038
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "fresh-italian-pizza-with-mushrooms-ham-tomatoes-6AJH8V9.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fresh-italian-pizza-with-mushrooms-ham-tomatoes-6AJH8V9-600x275.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home - 3"
+                }
+            ],
+            "filesize": 305295,
+            "dimensions": [
+                1920,
+                880
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6AJH8V9"
+        },
+        {
+            "filename": "friends-taking-slices-of-hot-pizza-from-cardboard-XD65K9Y-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/friends-taking-slices-of-hot-pizza-from-cardboard-XD65K9Y-min-600x342.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 314543,
+            "dimensions": [
+                1920,
+                1093
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/friends-taking-slices-of-hot-pizza-from-cardboard--XD65K9Y"
+        },
+        {
+            "filename": "sliced-cheese-pizza-served-on-wooden-board-KUJDW9X-min-1.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/sliced-cheese-pizza-served-on-wooden-board-KUJDW9X-min-1-600x297.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 171618,
+            "dimensions": [
+                1920,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sliced-cheese-pizza-served-on-wooden-board-KUJDW9X"
+        },
+        {
+            "filename": "hamburger-and-glass-of-cola-9X82ZAW-min-2.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/hamburger-and-glass-of-cola-9X82ZAW-min-2-600x300.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 185553,
+            "dimensions": [
+                1920,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hamburger-and-glass-of-cola-9X82ZAW"
+        },
+        {
+            "filename": "mobile-pizza-ordering-and-delivery-concept-PLFCC4V.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/mobile-pizza-ordering-and-delivery-concept-PLFCC4V-600x447.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 110368,
+            "dimensions": [
+                1039,
+                774
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLFCC4V"
+        },
+        {
+            "filename": "copy-space-frame-with-fast-food-ingredients-PHCB3KR-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/copy-space-frame-with-fast-food-ingredients-PHCB3KR-min-600x291.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 439201,
+            "dimensions": [
+                1920,
+                932
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/copy-space-frame-with-fast-food-ingredients-PHCB3KR"
+        },
+        {
+            "filename": "big-sandwich-with-ham-tomato-cheese-onion-and-PJAPGKR.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/big-sandwich-with-ham-tomato-cheese-onion-and-PJAPGKR-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 138089,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJAPGKR"
+        },
+        {
+            "filename": "classic-cheeseburger-with-beef-cheese-bacon-X6BYLUF.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/classic-cheeseburger-with-beef-cheese-bacon-X6BYLUF-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 135863,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-X6BYLUF"
+        },
+        {
+            "filename": "sandwich-with-ham-tomato-cheese-onion-and-lettuce-PHPLXJ3.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/sandwich-with-ham-tomato-cheese-onion-and-lettuce-PHPLXJ3-600x567.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 105806,
+            "dimensions": [
+                800,
+                756
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHPLXJ3"
+        },
+        {
+            "filename": "single-fresh-hot-cheeseburger-P4GSV5B.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/single-fresh-hot-cheeseburger-P4GSV5B-600x567.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 102889,
+            "dimensions": [
+                800,
+                756
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4GSV5B"
+        },
+        {
+            "filename": "ready-for-cooking-ingredients-and-herbs-for-pizza-K6UQTBZ.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/ready-for-cooking-ingredients-and-herbs-for-pizza-K6UQTBZ-600x249.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 276113,
+            "dimensions": [
+                1920,
+                796
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-K6UQTBZ"
+        },
+        {
+            "filename": "cheerful-happy-pretty-woman-looking-camera-TCYZ84G-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/cheerful-happy-pretty-woman-looking-camera-TCYZ84G-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 52741,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-happy-pretty-woman-looking-camera-TCYZ84G"
+        },
+        {
+            "filename": "bacoon_512px-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/bacoon_512px-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 7435,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "chicken_512px-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/chicken_512px-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 4603,
+            "dimensions": [
+                300,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "sauce_512px-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/sauce_512px-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 5077,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "croissant_512px-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/croissant_512px-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 5091,
+            "dimensions": [
+                300,
+                248
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "noodle_512px-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/noodle_512px-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 3747,
+            "dimensions": [
+                300,
+                277
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "grilled-meat_512px-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/grilled-meat_512px-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 6528,
+            "dimensions": [
+                300,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH-min-600x417.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home - 2"
+                }
+            ],
+            "filesize": 200790,
+            "dimensions": [
+                1280,
+                890
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH"
+        },
+        {
+            "filename": "big-double-cheeseburger-5N4EAVE.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/big-double-cheeseburger-5N4EAVE-600x324.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 259151,
+            "dimensions": [
+                1920,
+                1037
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5N4EAVE"
+        },
+        {
+            "filename": "tasty-grilled-home-made-burger-2ZLKV8T-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/tasty-grilled-home-made-burger-2ZLKV8T-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 373966,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-grilled-home-made-burger-2ZLKV8T"
+        },
+        {
+            "filename": "fast-food-burger-with-cola-and-potatoes-PWPUUK2-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fast-food-burger-with-cola-and-potatoes-PWPUUK2-min-600x380.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 337983,
+            "dimensions": [
+                1920,
+                1216
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-burger-with-cola-and-potatoes-PWPUUK2"
+        },
+        {
+            "filename": "burger_1-min-1.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/burger_1-min-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 7697,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "pizza-slice_2-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/pizza-slice_2-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 7442,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "fries_6-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fries_6-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 6301,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "hotdog_3-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/hotdog_3-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 7939,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "donut_5-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/donut_5-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 8048,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "softdrink_4-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/softdrink_4-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 5792,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fast-food-icons-line-colored-line-A4LHF2D"
+        },
+        {
+            "filename": "big-sandwich-hamburger-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/big-sandwich-hamburger-min-600x256.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 103166,
+            "dimensions": [
+                1920,
+                820
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-and-juicy-burger-close-up-food-is-a-seri-P7NV47C"
+        },
+        {
+            "filename": "image_1-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image_1-min-600x532.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 3930,
+            "dimensions": [
+                664,
+                589
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "very-big-hamburger-isolated-on-white-DT5R3A2.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/very-big-hamburger-isolated-on-white-DT5R3A2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 134484,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DT5R3A2"
+        },
+        {
+            "filename": "double-cheeseburger-6FQKD2S.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/double-cheeseburger-6FQKD2S-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 124651,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6FQKD2S"
+        },
+        {
+            "filename": "hamburger-with-beef-meat-burger-and-fresh-LDNHXQ7-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/hamburger-with-beef-meat-burger-and-fresh-LDNHXQ7-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 394512,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hamburger-with-beef-meat-burger-and-fresh-vegetabl-LDNHXQ7"
+        },
+        {
+            "filename": "fresh-pizza-in-delivery-box-on-grey-concrete-2R26DTY-min.jpg",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/fresh-pizza-in-delivery-box-on-grey-concrete-2R26DTY-min-600x252.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 400058,
+            "dimensions": [
+                1920,
+                806
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fresh-pizza-in-delivery-box-on-grey-concrete-backg-2R26DTY"
+        },
+        {
+            "filename": "image_12-min.png",
+            "thumbnail_url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/image_12-min-600x532.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home - 1"
+                }
+            ],
+            "filesize": 4584,
+            "dimensions": [
+                664,
+                589
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

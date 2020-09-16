@@ -1,0 +1,720 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "2a88a0c0",
+            "settings": {
+                "height": "min-height",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/closeup-hand-of-chef-baker-in-white-uniform-PDPPJNH-min-1.jpg",
+                    "id": 1169
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": "",
+                    "sizes": []
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "10",
+                    "bottom": "40",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#131313",
+                "content_width": {
+                    "unit": "px",
+                    "size": 600,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "11bc130a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7e2df8d6",
+                            "settings": {
+                                "title": "Frequently Asked Questions",
+                                "typography_font_family": "Oswald",
+                                "typography_font_weight": "bold",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "typography_font_size": {
+                                    "unit": "em",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "align_tablet": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "em",
+                                    "size": 3.6,
+                                    "sizes": []
+                                },
+                                "typography_text_transform": "capitalize",
+                                "align": "center",
+                                "typography_font_size_tablet": {
+                                    "unit": "em",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "header_size": "h1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "fce1569",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 250,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": 0,
+                    "bottom": "20",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "15",
+                    "bottom": "0",
+                    "left": "15",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "726e24bc",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "79a2f785",
+                            "settings": {
+                                "height_inner": "min-height",
+                                "custom_height_inner": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "structure": "20",
+                                "background_background": "classic",
+                                "background_position": "center center",
+                                "background_size": "cover",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "custom_height_inner_tablet": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "background_color": "#FFFFFF",
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "border_color": "#EEEEEE",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-100",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "3f2ff663",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "30",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2c102236",
+                                            "settings": {
+                                                "title": "Shipping Informations",
+                                                "header_size": "h5",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6956589f",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "What Shipping Methods are Available?",
+                                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem.<\/p>",
+                                                        "_id": "8c5fbbf"
+                                                    },
+                                                    {
+                                                        "tab_title": "How Do I Track My Order?",
+                                                        "tab_content": "<p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor pretium, in pretium risus finibus. Integer viverra pretium auctor.<\/p>",
+                                                        "_id": "eef359e"
+                                                    },
+                                                    {
+                                                        "tab_title": "How Long Will it Take To Get My Package?",
+                                                        "tab_content": "<p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor pretium, in pretium risus finibus. Integer viverra pretium auctor.<\/p>",
+                                                        "_id": "8fff44f"
+                                                    },
+                                                    {
+                                                        "tab_title": "Do I Need A Account To Place Order?",
+                                                        "tab_content": "<p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor pretium, in pretium risus finibus. Integer viverra pretium auctor.<\/p>",
+                                                        "_id": "ff16875"
+                                                    }
+                                                ],
+                                                "selected_icon": {
+                                                    "value": "fas fa-chevron-down",
+                                                    "library": "fa-solid"
+                                                },
+                                                "selected_active_icon": {
+                                                    "value": "fas fa-chevron-up",
+                                                    "library": "fa-solid"
+                                                },
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "size": 3,
+                                                    "sizes": []
+                                                },
+                                                "border_color": "#EE032B",
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_family": "Oswald",
+                                                "title_typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "title_padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "30",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "icon_align": "right",
+                                                "icon_color": "#000000",
+                                                "icon_active_color": "#EE032B",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "content_color": "#666666",
+                                                "content_typography_font_family": "Source Sans Pro",
+                                                "content_typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 1.1,
+                                                    "sizes": []
+                                                },
+                                                "content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "30",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_font_weight": "500",
+                                                "title_html_tag": "h6"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "toggle",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "232a75c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 100,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "padding_tablet": {
+                                            "unit": "px",
+                                            "top": "50",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6f1c4f65",
+                                            "settings": {
+                                                "title": "Leave us a Message\n",
+                                                "header_size": "h5",
+                                                "align_tablet": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5ef4c5e4",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "tab_title": "What Shipping Methods are Available?",
+                                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis diam erat. Duis velit lectus, posuere a blandit sit amet, tempor at lorem.<\/p>",
+                                                        "_id": "8c5fbbf"
+                                                    },
+                                                    {
+                                                        "tab_title": "How Do I Track My Order?",
+                                                        "tab_content": "<p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor pretium, in pretium risus finibus. Integer viverra pretium auctor.<\/p>",
+                                                        "_id": "eef359e"
+                                                    },
+                                                    {
+                                                        "tab_title": "How Long Will it Take To Get My Package?",
+                                                        "tab_content": "<p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor pretium, in pretium risus finibus. Integer viverra pretium auctor.<\/p>",
+                                                        "_id": "8fff44f"
+                                                    },
+                                                    {
+                                                        "tab_title": "Do I Need A Account To Place Order?",
+                                                        "tab_content": "<p>In egestas, libero vitae scelerisque tristique, turpis augue faucibus dolor, at aliquet ligula massa at justo. Donec viverra tortor quis tortor pretium, in pretium risus finibus. Integer viverra pretium auctor.<\/p>",
+                                                        "_id": "ff16875"
+                                                    }
+                                                ],
+                                                "selected_icon": {
+                                                    "value": "fas fa-chevron-down",
+                                                    "library": "fa-solid"
+                                                },
+                                                "selected_active_icon": {
+                                                    "value": "fas fa-chevron-up",
+                                                    "library": "fa-solid"
+                                                },
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "size": 3,
+                                                    "sizes": []
+                                                },
+                                                "border_color": "#EE032B",
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 13,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_family": "Oswald",
+                                                "title_typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "title_padding": {
+                                                    "unit": "px",
+                                                    "top": "20",
+                                                    "right": "30",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "icon_align": "right",
+                                                "icon_color": "#000000",
+                                                "icon_active_color": "#EE032B",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": 25,
+                                                    "sizes": []
+                                                },
+                                                "content_color": "#666666",
+                                                "content_typography_font_family": "Source Sans Pro",
+                                                "content_typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 1.1,
+                                                    "sizes": []
+                                                },
+                                                "content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "30",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_font_weight": "500",
+                                                "title_html_tag": "h6"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "toggle",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3e6a7c53",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": "",
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "custom_height_tablet": {
+                    "unit": "px",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "79d04033",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "69af07e6",
+                            "settings": {
+                                "title": "Our awards",
+                                "align": "center",
+                                "typography_font_family": "Oswald",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_text_transform": "capitalize",
+                                "title_color": "#EE032B",
+                                "typography_font_size_tablet": {
+                                    "unit": "em",
+                                    "size": 2.6,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "52baf47d",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 578,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-1-min.png"
+                                    },
+                                    {
+                                        "id": 579,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-2-min.png"
+                                    },
+                                    {
+                                        "id": 580,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-3-min.png"
+                                    },
+                                    {
+                                        "id": 581,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-4-min.png"
+                                    },
+                                    {
+                                        "id": 582,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-5-min.png"
+                                    },
+                                    {
+                                        "id": 583,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-6-min.png"
+                                    },
+                                    {
+                                        "id": 584,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-7-min.png"
+                                    },
+                                    {
+                                        "id": 585,
+                                        "url": "https:\/\/kits.pixel-show.com\/kit-2\/wp-content\/uploads\/sites\/5\/2020\/03\/awards-8-min.png"
+                                    }
+                                ],
+                                "slides_to_show": "5",
+                                "slides_to_scroll": "1",
+                                "dots_color": "#EE032B",
+                                "__dynamic__": []
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}
